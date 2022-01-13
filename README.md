@@ -1,5 +1,5 @@
 
-#Project for "Basics of mobile robotics - MICRO 452" @ EPFL
+### Project for "Basics of mobile robotics - MICRO 452" @ EPFL
 
 using the Thymio robot
 
